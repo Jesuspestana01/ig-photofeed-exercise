@@ -1,0 +1,53 @@
+/* * {
+    border: red 1px solid;
+} */
+
+body {
+    background-color: rgb(193, 193, 193);
+
+    margin: 0;
+}
+
+header {
+    background-color: white;
+
+    margin: 0;
+    padding-top: 0.1rem;
+
+    height: 4.5rem;
+}
+
+.contain{
+    margin: 0 auto;
+    width: 500px;
+    }
+
+.post{
+    background-color: white;
+
+    height: 520px;
+
+    box-shadow: 1px 1px 1px rgba(30, 30, 30, 0.5);
+}
+
+.postHeader {
+    display:flex;
+    justify-content: space-between;
+    
+    margin-top: 2rem;
+}
+
+h3 {
+    margin: 1rem;
+}
+
+span {
+    margin: 1rem;
+
+    color: rgb(210,210,210);
+}
+
+p {
+    margin: 1rem;
+    padding-bottom: 2rem;
+}
